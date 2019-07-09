@@ -1,0 +1,19 @@
+body
+{
+  text-align: center;
+}
+
+.username
+{
+  line-height: 35px;
+  margin: 10% 0 5%;
+}
+
+.inputname
+{
+  line-height: 35px;
+}
+.password
+{
+  margin-bottom: 5%
+}
